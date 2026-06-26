@@ -26,13 +26,17 @@ Build an AI agent workflow using RAG framework. That will retrieve the necessary
 
 1. We will use the **n8n platform** for building this workflow.
 2. There will be one **Ingestion Pipeline** : for chunking and storing the Nova Cart's ( internal data ) in a Vector Database ( on Pinecone platform ).
+   <img width="1107" height="532" alt="image" src="https://github.com/user-attachments/assets/23eb5f7c-f877-4b7c-8ade-d6324af8d0d5" />
+
 3. We will have a **Retrieval Pipeline** : Upon a Chat trigger from the user agent(with system prompt) will use the LLM Model + Memory + Vector Db to search and retrieve the relevant data and publish the response to the user via same Chat Interface.
+   <img width="1117" height="542" alt="image" src="https://github.com/user-attachments/assets/5468a5cf-3f0d-41c7-bb0e-b2783aed57dd" />
+
 
 **System Design**
 assets/RAG_simple.png
 
 **Setup Instructions**
-docs/Setup_Instructions.md
+docs/Setup Instructions.md
 
 **Scaling_Strategy**
 docs/Scaling_Strategy.md
