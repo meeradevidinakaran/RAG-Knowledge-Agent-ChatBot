@@ -13,6 +13,12 @@ Current painful process:
 4.	Slow Turnaround: Analysts have to manually open these files, search for data, and write emails.
 5.	Hallucinations: When staff try to use generic ChatGPT, it invents fake numbers because it doesn't have access to NovaCart's private internal data.
 
+**Objective:**
+Build a Retrieval-Augmented Generation (RAG) workflow that:
+1.	Ingests metrics and documentation from multiple sources
+2.	Embeds and indexes content for semantic retrieval
+3.	Responds to user queries with grounded, source-cited answers only
+
 **Goal**
 Build an AI agent workflow using RAG framework. That will retrieve the necessary data from the internal knowledge sources attached and return a relevant message if the required data is not available in the source.
 
@@ -26,8 +32,10 @@ Build an AI agent workflow using RAG framework. That will retrieve the necessary
 assets/RAG_simple.png
 
 **Setup Instructions**
+docs/Setup_Instructions.md
 
 **Scaling_Strategy**
+docs/Scaling_Strategy.md
 
 **Demo Video**
 
