@@ -23,7 +23,7 @@ Build an AI agent workflow using RAG framework. That will retrieve the necessary
 3. We will have a **Retrieval Pipeline** : Upon a Chat trigger from the user agent(with system prompt) will use the LLM Model + Memory + Vector Db to search and retrieve the relevant data and publish the response to the user via same Chat Interface.
 
 **System Design**
-
+assets/RAG_simple.png
 
 **Setup Instructions**
 
