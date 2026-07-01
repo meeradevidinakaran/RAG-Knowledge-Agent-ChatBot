@@ -44,7 +44,7 @@ docs/Setup Instructions.md
 docs/Scaling_Strategy.md
 
 **Demo Video**
-
+assets/RAG Chat Bot.mp4
 
 
 
