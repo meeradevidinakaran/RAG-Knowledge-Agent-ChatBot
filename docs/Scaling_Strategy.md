@@ -1,6 +1,6 @@
 **Data Synching or upsert Mechanism**
   For any growing company or well established organizations even the company data constantly keeps evolving in such cases the ingestion Pipeline cannot be a one-time flow.
-  1. We can have a scheduled trigger on to extract all the latest documents.
+  1. We can have a scheduled trigger/event based trigger on to extract all the latest documents.
   2. Webhook to the database itself.
      In order to handle document updates, so that the LLM isn't retrieving outdated details from an old Word document when a new model is released.
 
