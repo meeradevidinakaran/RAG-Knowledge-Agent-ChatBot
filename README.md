@@ -33,7 +33,7 @@ Build a Retrieval-Augmented Generation (RAG) workflow that:
 <img width="1920" height="1020" alt="Chat Interface" src="https://github.com/user-attachments/assets/1df3ef10-b521-4d7c-9d40-123b4ae6c40c" />
 
 # System Design
-![System_Design](assets/RAGSystemDesign.png)
+![System_Design](assets/RAGSystemDesign1.png)
 
 # Setup Instructions
 ![Setup_Instructions](docs/SetupInstructions.md)
@@ -42,7 +42,8 @@ Build a Retrieval-Augmented Generation (RAG) workflow that:
 ![ScalingStrategy](docs/Scaling_Strategy.md)
 
 # Demo Video
-![Demo](assets/RAGChatBot.mp4)
+https://github.com/user-attachments/assets/21f4b124-4841-4ac2-ad9e-b30c60973a6a
+
 
 
 
