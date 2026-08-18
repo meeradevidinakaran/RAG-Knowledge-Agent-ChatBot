@@ -41,6 +41,8 @@ Build a Retrieval-Augmented Generation (RAG) workflow that:
 # Scaling_Strategy
 ![ScalingStrategy](docs/Scaling_Strategy.md)
 
+Full implementation templates are maintained in a private repository; access for technical review is available upon request.
+
 # Demo Video
 https://github.com/user-attachments/assets/21f4b124-4841-4ac2-ad9e-b30c60973a6a
 
